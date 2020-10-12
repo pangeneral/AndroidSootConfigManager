@@ -1,0 +1,20 @@
+apkName doInBackgroundTest.apk
+apkBasePath test-apk
+outputBasePath jimple\\Apks
+isJimpleOutput 0
+androidPath D:\\download\\soot-path\\android-platforms-master
+maxRunningTime 7200000
+maxLoopUnrollNumber 2
+maxPathNumber 40000
+maxContextDepth 8
+debugMode 0
+maxRecursiveInvocationLevel
+entryMethod 
+initMethodSubsignature
+benchmark
+com.MainActivity.entryMethod
+jimple\\benchmark
+com.csipsimple.service.SipService$StartRunnable.doRun
+com.csipsimple.service.SipService$StartRunnable.doRun
+com.csipsimple.widgets.SeekBarPreference.onCreateDialogView
+com.csipsimple.service.SipService$AccountStatusContentObserver.onChange
