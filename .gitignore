@@ -29,3 +29,8 @@
 .svn/pristine/0b/0bfd5f150a4bd9baad8e2e66a6bc2cc8b2cf73c5.svn-base
 .svn/format
 .svn/entries
+.svn/pristine/31/317d5c263c163a6e2bbfbdb054083315fab92166.svn-base
+.svn/pristine/f8/f8d3054dfd4ad113bcda9c555bb4e3ba6e35820e.svn-base
+test-apk/doInBackgroundTest.apk
+test-apk/DoWhileLoopRight.apk
+test-apk/DoWhileLoopWrong.apk
